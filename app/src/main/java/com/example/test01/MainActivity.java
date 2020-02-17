@@ -19,9 +19,10 @@ public class MainActivity extends AppCompatActivity{
 
 
     }
-
     public void go(View view) {
         String str="oh yea,i have been clicked";
         tv.setText(str);
+
     }
+
 }
